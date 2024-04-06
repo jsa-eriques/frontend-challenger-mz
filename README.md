@@ -9,7 +9,7 @@ O objetivo é construir uma página de tratamento de entregas, à partir de uma 
 - **Forke** esse repositório e faça o desafio numa branch com o seu nome (exemplo: `nome-sobrenome`);
 - Abra um **pull request** com sua implemetação inicial e no decorrer do desafio pode ir aplicando **commits** com seus ajustes
 - A tela deverá ser criada do topo para o rodapé. Criando primeiramente o header(**Pedido**, **Status do pedido** e **Entregas relacionadas**), **Dados do Cliente**, **Dados do pagamento**, **Dados do Pedido**, **Entrega F1** e **Entrega F2**. Ao clicar em uma das entregas deverá expandir a tela com as inforemações de **Dados da Entrega** e **Detalhes da Entrega**
-- Caso tenha alguma dúvida envie um e-mail para <flavio.zantut@linx3.com>
+- Caso tenha alguma dúvida envie um e-mail para <jose.eriques@mzworkspace.com>
 
 
 ## O que iremos avaliar
